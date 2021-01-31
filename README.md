@@ -1,4 +1,4 @@
 # DataBase 
 # Hierarchy in sub Team Embedded
-[my link](https://github.com/IEEE-SSCS-EmbeddedSubTeam/DataBase/blob/main/index.html)
+[IEEE MEMBER TEAM Contact](https://ieee-sscs-embeddedsubteam.github.io/DataBase/)
 ![alt text](https://github.com/IEEE-SSCS-EmbeddedSubTeam/DataBase/blob/main/Blank%20diagram.png)
